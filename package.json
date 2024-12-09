@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "expres": "^0.0.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.5"
+  },
+  "name": "web-tech-back-end-(massive-challange)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
